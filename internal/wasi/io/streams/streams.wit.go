@@ -12,8 +12,8 @@
 package streams
 
 import (
-	ioerror "github.com/rajatjindal/wasi/internal/wasi/io/error"
-	"github.com/rajatjindal/wasi/internal/wasi/io/poll"
+	ioerror "github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/error"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/poll"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

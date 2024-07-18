@@ -6,8 +6,8 @@
 package udpcreatesocket
 
 import (
-	"github.com/rajatjindal/wasi/internal/wasi/sockets/network"
-	"github.com/rajatjindal/wasi/internal/wasi/sockets/udp"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/sockets/network"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/sockets/udp"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

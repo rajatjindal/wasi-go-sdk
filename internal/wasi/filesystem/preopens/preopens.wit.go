@@ -6,7 +6,7 @@
 package preopens
 
 import (
-	"github.com/rajatjindal/wasi/internal/wasi/filesystem/types"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/filesystem/types"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

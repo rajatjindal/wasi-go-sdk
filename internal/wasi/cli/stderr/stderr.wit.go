@@ -6,7 +6,7 @@
 package stderr
 
 import (
-	"github.com/rajatjindal/wasi/internal/wasi/io/streams"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/streams"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

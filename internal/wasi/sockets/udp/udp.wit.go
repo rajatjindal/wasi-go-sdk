@@ -6,8 +6,8 @@
 package udp
 
 import (
-	"github.com/rajatjindal/wasi/internal/wasi/io/poll"
-	"github.com/rajatjindal/wasi/internal/wasi/sockets/network"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/poll"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/sockets/network"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

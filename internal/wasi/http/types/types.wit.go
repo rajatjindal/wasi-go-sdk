@@ -10,10 +10,10 @@
 package types
 
 import (
-	monotonicclock "github.com/rajatjindal/wasi/internal/wasi/clocks/monotonic-clock"
-	ioerror "github.com/rajatjindal/wasi/internal/wasi/io/error"
-	"github.com/rajatjindal/wasi/internal/wasi/io/poll"
-	"github.com/rajatjindal/wasi/internal/wasi/io/streams"
+	monotonicclock "github.com/rajatjindal/wasi-go-sdk/internal/wasi/clocks/monotonic-clock"
+	ioerror "github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/error"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/poll"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/streams"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

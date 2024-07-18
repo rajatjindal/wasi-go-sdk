@@ -17,7 +17,7 @@
 package monotonicclock
 
 import (
-	"github.com/rajatjindal/wasi/internal/wasi/io/poll"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/poll"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

@@ -5,7 +5,7 @@
 package outgoinghandler
 
 import (
-	"github.com/rajatjindal/wasi/internal/wasi/http/types"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/http/types"
 	"github.com/ydnar/wasm-tools-go/cm"
 	"unsafe"
 )

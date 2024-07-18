@@ -8,7 +8,7 @@
 package instancenetwork
 
 import (
-	"github.com/rajatjindal/wasi/internal/wasi/sockets/network"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/sockets/network"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 

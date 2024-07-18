@@ -6,10 +6,10 @@
 package tcp
 
 import (
-	monotonicclock "github.com/rajatjindal/wasi/internal/wasi/clocks/monotonic-clock"
-	"github.com/rajatjindal/wasi/internal/wasi/io/poll"
-	"github.com/rajatjindal/wasi/internal/wasi/io/streams"
-	"github.com/rajatjindal/wasi/internal/wasi/sockets/network"
+	monotonicclock "github.com/rajatjindal/wasi-go-sdk/internal/wasi/clocks/monotonic-clock"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/poll"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/streams"
+	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/sockets/network"
 	"github.com/ydnar/wasm-tools-go/cm"
 )
 
