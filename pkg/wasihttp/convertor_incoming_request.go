@@ -5,8 +5,8 @@ import (
 	"io"
 	"net/http"
 
+	"github.com/bytecodealliance/wasm-tools-go/cm"
 	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/http/types"
-	"github.com/ydnar/wasm-tools-go/cm"
 )
 
 type IncomingRequest = types.IncomingRequest

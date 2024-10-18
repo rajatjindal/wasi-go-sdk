@@ -5,9 +5,9 @@ import (
 	"io"
 	"net/http"
 
+	"github.com/bytecodealliance/wasm-tools-go/cm"
 	outgoinghandler "github.com/rajatjindal/wasi-go-sdk/internal/wasi/http/outgoing-handler"
 	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/http/types"
-	"github.com/ydnar/wasm-tools-go/cm"
 )
 
 // NewTransport returns http.RoundTripper backed by Spin SDK

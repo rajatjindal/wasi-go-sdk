@@ -3,8 +3,8 @@ package wasihttp
 import (
 	"net/http"
 
+	"github.com/bytecodealliance/wasm-tools-go/cm"
 	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/http/types"
-	"github.com/ydnar/wasm-tools-go/cm"
 )
 
 // convert the IncomingRequest to http.Request

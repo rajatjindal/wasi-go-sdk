@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strings"
 
+	"github.com/bytecodealliance/wasm-tools-go/cm"
 	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/cli/stdout"
 	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/http/types"
 	"github.com/rajatjindal/wasi-go-sdk/internal/wasi/io/streams"
-	"github.com/ydnar/wasm-tools-go/cm"
 )
 
 var _ http.ResponseWriter = &responseOutparamWriter{}
