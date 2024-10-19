@@ -14,5 +14,5 @@ tinygo build -target=wasip2 --wit-package $(go list -mod=readonly -m -f '{{.Dir}
 ## Run
 
 ```
-wasmtime run -Shttp main.wasm
+wasmtime run main.wasm
 ```

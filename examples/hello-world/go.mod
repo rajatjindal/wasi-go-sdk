@@ -1,6 +1,6 @@
 module github.com/rajatjindal/wasi-go-sdk/examples/hello-world
 
-go 1.22.4
+go 1.23.1
 
 require github.com/rajatjindal/wasi-go-sdk v0.0.0-20240718014735-f12251931389
 
